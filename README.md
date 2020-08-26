@@ -3,7 +3,7 @@ The implement of paper "Learning Deformable Kernels for Image and Video Denoisin
 
 ## Framework
 
-![image](https://github.com/WenxueCui/Deformable_Kernels_Image_Video_Denoising/raw/master/images/framework.jpg)
+![image](https://github.com/WenxueCui/Deformable_Kernels_Image_Video_Denoising/raw/master/images/framework.png)
 
 ## Requirements and Dependencies
 
@@ -42,10 +42,10 @@ In our code, two model version are included:
 ## CSNet results
 ### Subjective results
 
-![image](https://github.com/WenxueCui/CSNet-Pytorch/raw/master/images/results.jpg)
+![image](https://github.com/WenxueCui/Deformable_Kernels_Image_Video_Denoising/raw/master/images/results2.png)
 
 ### Objective results
-![image](https://github.com/WenxueCui/CSNet-Pytorch/raw/master/images/table.jpg)
+![image](https://github.com/WenxueCui/Deformable_Kernels_Image_Video_Denoising/raw/master/images/results1.png)
 
 ## Additional instructions
 
