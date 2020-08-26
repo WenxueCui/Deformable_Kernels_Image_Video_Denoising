@@ -1,6 +1,9 @@
 # Deformable_Kernels_Image_Video_Denoising
 The implement of paper "Learning Deformable Kernels for Image and Video Denoising" in PyTorch.
 
+## Framework
+
+![image](https://github.com/WenxueCui/Deformable_Kernels_Image_Video_Denoising/raw/master/images/framework.jpg)
 
 ## Requirements and Dependencies
 
