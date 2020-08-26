@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
-from modules.Encoder_Decoder import Encoder_Decoder
-from modules.DeformableConv import trilinear_interpolation, convolution_3D
+from Encoder_Decoder import Encoder_Decoder
+from DeformableConv import trilinear_interpolation, convolution_3D
 
 class Weight_Conv(nn.Module):
     def __init__(self, in_channel, out_channel):
